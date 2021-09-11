@@ -1,5 +1,0 @@
-﻿<Properties StartupConfiguration="{66C13F0F-F585-44AF-B6BC-C419C1538D9F}|Default">
-  <MonoDevelop.Ide.ItemProperties.SampleDemoApp.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.SampleDemoApp.Android PreferredExecutionTarget="Android.Pixel_2_API_30" />
-  <MultiItemStartupConfigurations />
-</Properties>
