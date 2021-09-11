@@ -1,6 +1,5 @@
-﻿<Properties StartupConfiguration="{169F3D28-D600-4A10-9171-0F3C5ACCB005}|Default">
-  <MonoDevelop.Ide.ItemProperties.SampleDemoApp.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SampleDemoApp.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SampleDemoApp FirstBuild="True" />
+﻿<Properties StartupConfiguration="{66C13F0F-F585-44AF-B6BC-C419C1538D9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleDemoApp.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SampleDemoApp.Android PreferredExecutionTarget="Android.Pixel_2_API_30" />
   <MultiItemStartupConfigurations />
 </Properties>
